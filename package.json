@@ -1,5 +1,5 @@
 {
-  "name": "dj-events-frontend",
+  "name": "djevents-frontend",
   "private": false,
   "scripts": {
     "dev": "next dev",
