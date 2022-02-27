@@ -46,7 +46,7 @@ export default function registerPage() {
                         />
                     </div>
                     <div>
-                        <label htmlFor='email'>Email Address💩</label>
+                        <label htmlFor='email'>Email Address🥐</label>
                         <input 
                             type='email' 
                             id='email' 
@@ -72,7 +72,7 @@ export default function registerPage() {
                             onChange={event => setPasswordConfirm(event.target.value)}
                         />
                     </div>
-                    <input type='submit' value='login' className='btn'/>
+                    <input type='submit' value='Register' className='btn'/>
                 </form>
                 <p>Already have an account? &nbsp;<Link href='/account/login'>Log In Here</Link></p>
             </div>
